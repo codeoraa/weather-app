@@ -68,6 +68,10 @@ body {
   width: 16px;
 }
 
+.weather {
+  display: none;
+}
+
 /* 🌦️ Weather Info */
 .weather-icon {
   width: 170px;
